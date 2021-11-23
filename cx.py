@@ -28,7 +28,7 @@ server_chan = {
 # 学习通账号cookies缓存文件路径
 cookies_path = "cookies.json"  # cookies.json 保存路径
 
-# activeid保存文件路径
+# activeid保存文件路
 activeid_path = "activeid.txt"
 
 # =================配置区end===================
